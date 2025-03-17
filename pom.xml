@@ -46,6 +46,11 @@
       <name>Àngel Ollé Blázquez</name>
       <email>angel@olleb.com</email>
     </developer>
+      <developer>
+      <id>testrepo1177</id>
+      <name>test</name>
+      <email>fabio11772outlook.com</email>
+    </developer>
   </developers>
 
   <scm>
